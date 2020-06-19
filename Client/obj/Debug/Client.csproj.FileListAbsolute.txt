@@ -1,0 +1,13 @@
+D:\Selfmade\LTM2\Client\bin\Debug\Client.exe.config
+D:\Selfmade\LTM2\Client\bin\Debug\Client.exe
+D:\Selfmade\LTM2\Client\bin\Debug\Client.pdb
+D:\Selfmade\LTM2\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Selfmade\LTM2\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Selfmade\LTM2\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Selfmade\LTM2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Selfmade\LTM2\Client\obj\Debug\Client.exe
+D:\Selfmade\LTM2\Client\obj\Debug\Client.pdb
+D:\Selfmade\LTM2\Client\obj\Debug\Client.Login.resources
+D:\Selfmade\LTM2\Client\obj\Debug\Client.ChatxServer.resources
+D:\Selfmade\LTM2\Client\obj\Debug\Client.Client.resources
+D:\Selfmade\LTM2\Client\obj\Debug\Client.ClientxClient.resources
